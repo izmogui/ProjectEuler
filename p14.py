@@ -20,6 +20,7 @@ def main():
 	
 	for i in range(1, top):
 		value = i
+		# partial sequence
 		sequence = dict()
 		while True:
 			# case saved value
