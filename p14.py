@@ -1,7 +1,7 @@
 import time
 
-# Solution saving partial results.
-# Bad performance to dictionary insertions and queries.
+# Solution storing partial results.
+# Bad performance due to dictionary insertions and queries.
 # Best known solution: brute froce without storing anything.
 
 def main():
