@@ -1,5 +1,3 @@
-import sys
-from operator import mul
 import time
 
 # Solution using permutations with repetition.
