@@ -23,7 +23,7 @@ def main():
 	rows = 20
 	columns = 20
 
-	print fact(40) / fact(20) / fact(20)
+	print fact(rows + columns) / fact(rows) / fact(columns)
 	
 	print "Elapsed Time: ", int(round(time.time() * 1000)) - start, "milliseconds"
 
